@@ -1,0 +1,183 @@
+/* --Code des contenants--*/
+#wrapper {
+    position:absolute;
+    height: 125%;
+    width: 100%;
+    background-color: beige;
+    background-attachment:scroll;
+    background-size:cover;
+    background-position: center;
+}
+#container {
+    margin-top: 10%;
+    width: 60%;
+    height: 54rem;
+    background-color: white;
+    margin-left: 20%;
+    border-radius: 1%;
+    Border: solid;
+}
+.box-container{
+    display: grid;
+    grid-template-columns: 25% 20% 20% 20% ;
+    background-color: white;
+    border-radius:1%;
+    color: black;
+    border-bottom: solid 4px black;
+    
+}
+.box1{
+    margin-left: 3.5%;
+    margin-top: 7%;
+    float:left;
+}
+/* --Code des contenants--*/
+
+/* --Code du menu de navigation--*/
+header {
+    font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif";
+    margin-left: 0%;
+}
+.Logo{
+    border: 6px solid rgb(64, 46, 141);
+    border-radius: 40%;
+    width: 60px;
+    margin-top: 1.1rem;
+}
+.img{
+    float: left;
+}
+.Lit{
+    font-size: 1.9rem;
+    margin-top: 1.5rem;
+    margin-left: 6.5rem ;
+    }
+.auteur {
+    border-radius: 5px;
+    width: 15rem;
+    height: 2rem;
+    font-size: 1.3rem;
+    margin-top: 20%;
+    margin-left: 15%;
+    text-align: center;
+}
+.panier,
+.Cs {
+    color: black;
+    text-decoration: none;
+}   
+.panier {
+    font-size: 1.7rem;
+    margin-top: 18%;
+    margin-left: 65%;
+}
+.acceuil{
+    margin-left: 65%;
+    margin-top: 18%;
+    font-size: 1.7rem;
+}
+ a {
+    text-decoration: none;
+    text-transform: none;
+    color: black;
+}
+/* --Code du menu de navigation--*/
+
+/*---Code de la grille--*/
+.grid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    height: 50%;
+}
+.grid1 {
+    background-color: rgb(130, 130, 177) ;
+    border: 2px solid rgb(64, 46, 141);
+    height: 124.5%;
+}
+.grid2 {
+    background-color:rgb(212, 126, 126) ;
+    border: 2px solid rgb(64, 46, 141);
+    height: 124.5%;
+}
+/*---Code de la grille--*/
+
+/* --Code du menu d'inscription--*/
+.form-control {
+    display:block;
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+    margin-bottom: -2rem;
+    width: 50%;
+    font-size: larger;
+    height: 5%;
+}
+/* --Code du menu d'inscription--*/
+
+/* --Code du texte--*/
+span {
+    display: block;
+    font-size: 2em;
+    margin-left: 36%;
+    margin-top: 5%;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+#citation {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 25%;
+}
+figcaption{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 25px;
+}
+.boutton-inscription {
+    display: block;
+    margin: auto;
+    margin-top: 10.5%;
+    width: 13rem;
+    background-color:rgb(102, 80, 179);
+    color: white;
+    font: bold 15px arial, sans-serif;
+    border-radius: 10%;
+    height:60px;
+    
+}
+/* --Code du texte--*/
+
+/* --Code des traits--*/
+.trait_dessous {
+    border-top: 4px solid rgb(209, 221, 41);
+    width : 25%;
+    margin : auto;
+    margin-top: 10%;
+} 
+
+.trait_dessou {
+    border-top: 4px solid rgb(209, 221, 41);
+    width : 25%;
+    margin : auto;
+    margin-top: 3%;
+} 
+/* --Code des traits--*/
+
+/*-----footer-----*/
+.container2{
+        height: 23rem;
+       }
+#form1 {
+    margin-top: 0rem;
+    margin-left: 8%;
+    width: 30rem;
+}
+.reseaux {
+    padding-top: 1%;
+}
+   /*-----footer-----*/
+
+
+
+
+
+
